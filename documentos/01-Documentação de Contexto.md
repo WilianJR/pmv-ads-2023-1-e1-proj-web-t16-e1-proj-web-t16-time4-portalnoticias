@@ -1,8 +1,10 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Atualmente, as notícias e informações vêm sendo itens essenciais no dia a dia das pessoas e organizações. Como informações corretas, precisas e de fácil observação são fundamentais para se manterem atualizadas.
 
+Com o aumento do número de plataformas como sites, fóruns, blogs e jornais as pessoas perderam o interesse em procurar novas notícias e informações pois muitas das vezes acabam encontrando inúmeras notícias que não têm com seus interesses ou notícias enganosas. Através de uma pesquisa realizada pelo jornal nexo em 2022,” a natureza e o tom dos temas, além da repetição de certos assuntos em diferentes veículos foram apontadas como as principais razões para o comportamento”.
 ## Problema
+
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
